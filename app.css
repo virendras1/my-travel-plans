@@ -65,5 +65,11 @@ h2 {
 >>>>>>> 2dadcf42cd56db1cbc0597fe1a014a9caea1ccd4
 }
 #paris {
+<<<<<<< Updated upstream
     background-color: #d32f2k;
+||||||| merged common ancestors
+    background-color: #d32f2f;
+=======
+    background-color: #d32f2j;
+>>>>>>> Stashed changes
 }
